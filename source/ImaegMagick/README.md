@@ -1,0 +1,1 @@
+ここにImageMagickを展開
